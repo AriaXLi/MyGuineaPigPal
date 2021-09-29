@@ -1,9 +1,0 @@
-spring:
-    datasource:
-        url: jdbc:postgresql://ec2-52-72-125-94.compute-1.amazonaws.com:5432/d9e7f4qvttgssm
-        username: bdyrpjwniguhnx
-        password: ef791d70ed1b30f8d408811bc4aa4f7baccc31ffa29f2dbd570b4017ba5f91b8
-    #jpa:
-        #hibernate:            
-            #show-sql: true
-            #ddl-auto: create-drop
